@@ -1,0 +1,95 @@
+
+.leaflet-fusesearch-control {
+    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+    background: #fff;
+    border-radius: 5px;
+    transition: all .2s;
+    overflow: hidden;
+    width: 42px;
+    min-height: 42px;
+    height: 100%;
+}
+
+.leaflet-fusesearch-control .button {
+    /*background-position: center;*/
+    background-position: 11px 11px;
+    background-repeat: no-repeat;
+    background-image: url(../img/search_input.png);
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.leaflet-touch .leaflet-fusesearch-control .button {
+    width: 42px;
+    height: 42px;
+}
+
+.leaflet-fusesearch-control.left {
+    left: 0;
+}
+
+.leaflet-fusesearch-control.right {
+    right: 0;
+}
+
+.leaflet-fusesearch-control.visible {
+    height: 100%;
+    width: 360px;
+}
+
+
+.leaflet-fusesearch-control .close {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 36px;
+    height: 36px;
+    color: #4d4d4d;
+    font-size: 36px;
+    line-height: 1em;
+    text-align: center;
+    background: white;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+}
+
+.leaflet-fusesearch-control .search-input {
+    position: absolute;
+    line-height: 1.1em;
+    left: 42px;
+    top: 13px;
+    width: 75%;
+    display: none;
+}
+
+.leaflet-fusesearch-control .result-list {
+    display: none;
+    overflow: auto;
+    margin-top: 42px;
+    -webkit-overflow-scrolling: touch;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    font-size: 1.5em;
+    padding-left: 10px;
+}
+
+.leaflet-fusesearch-control .search-input.visible,
+.leaflet-fusesearch-control .close.visible,
+.leaflet-fusesearch-control .result-list.visible {
+    display: inline-block;
+}
+
+.leaflet-fusesearch-control .result-item {
+    color : black;
+}
+
+.leaflet-fusesearch-control .result-item.clickable {
+    cursor: pointer;
+}

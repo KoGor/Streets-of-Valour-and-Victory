@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>Улицы Москвы хранят память о героях Великой Отечественной Войны, а Ты помнишь?</title>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+	<link rel="stylesheet" href="css/leaflet.fusesearch2.css" />
+	<link rel="stylesheet" href="css/map.css" />
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script src="js/TileLayer.Grayscale.js"></script>
+	<script src="js/fuse.min.js"></script>
+	<script src="js/leaflet.fusesearch2.js"></script>
+
+	<script src="data/streetsData.js"></script>
+	<script src="js/streetsStyle.js"></script>
+
+</head>
+<body>
+    <div class="header">
+        <h1>
+            Улицы Москвы <span class="subheader">хранят память</span> о героях Великой Отечественной Войны. 
+            <span class="subheader">А Ты помнишь?</span>
+        </h1>
+
+    </div>
+	<div id="map" class="mapContainer">
+		<div class="symbol"></div>
+		<script src="js/main.js"></script>
+        <div class="likes">
+        	<script type="text/javascript" src="https://yastatic.net/share/share.js" charset="utf-8"></script>
+        	<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,gplus"></div>
+        </div>
+	</div>
+	
+</body>
+</html>

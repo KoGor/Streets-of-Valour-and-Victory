@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: 'russo_oneregular';
+    src: url('russo_one.eot');
+    src: url('russo_one.eot?#iefix') format('embedded-opentype'),
+         url('russo_one.woff') format('woff'),
+         url('russo_one.ttf.gz') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
