@@ -5,7 +5,7 @@ var streetsStyle = {
 			"weight": 3.6,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"mainroad": {
@@ -13,7 +13,7 @@ var streetsStyle = {
 			"weight": 2,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"minorroad": {
@@ -21,7 +21,7 @@ var streetsStyle = {
 			"weight": 0.4,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"service": {
@@ -29,7 +29,7 @@ var streetsStyle = {
 			"weight": 0.3,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"noauto": {
@@ -37,7 +37,7 @@ var streetsStyle = {
 			"weight": 0.3,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		}
 	},
@@ -47,7 +47,7 @@ var streetsStyle = {
 			"weight": 4.5,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"mainroad": {
@@ -55,7 +55,7 @@ var streetsStyle = {
 			"weight": 2.2,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"minorroad": {
@@ -63,7 +63,7 @@ var streetsStyle = {
 			"weight": 0.8,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"service": {
@@ -71,7 +71,7 @@ var streetsStyle = {
 			"weight": 0.5,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"noauto": {
@@ -79,7 +79,7 @@ var streetsStyle = {
 			"weight": 0.5,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		}
 	},
@@ -89,7 +89,7 @@ var streetsStyle = {
 			"weight": 5,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"mainroad": {
@@ -97,7 +97,7 @@ var streetsStyle = {
 			"weight": 3.5,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"minorroad": {
@@ -105,7 +105,7 @@ var streetsStyle = {
 			"weight": 3,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"service": {
@@ -113,7 +113,7 @@ var streetsStyle = {
 			"weight": 1,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"noauto": {
@@ -121,7 +121,7 @@ var streetsStyle = {
 			"weight": 1,
 			"opacity": 1,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		}
 	},
@@ -131,7 +131,7 @@ var streetsStyle = {
 			"weight": 6,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"mainroad": {
@@ -139,7 +139,7 @@ var streetsStyle = {
 			"weight": 4.5,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"minorroad": {
@@ -147,7 +147,7 @@ var streetsStyle = {
 			"weight": 3.6,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"service": {
@@ -155,7 +155,7 @@ var streetsStyle = {
 			"weight": 1,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"noauto": {
@@ -163,7 +163,7 @@ var streetsStyle = {
 			"weight": 1,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		}
 	},
@@ -173,7 +173,7 @@ var streetsStyle = {
 			"weight": 8.5,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"mainroad": {
@@ -181,7 +181,7 @@ var streetsStyle = {
 			"weight": 6,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"minorroad": {
@@ -189,7 +189,7 @@ var streetsStyle = {
 			"weight": 4,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"service": {
@@ -197,7 +197,7 @@ var streetsStyle = {
 			"weight": 2.66,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"noauto": {
@@ -205,7 +205,7 @@ var streetsStyle = {
 			"weight": 2.5,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		}
 	},
@@ -215,7 +215,7 @@ var streetsStyle = {
 			"weight": 10.5,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"mainroad": {
@@ -223,7 +223,7 @@ var streetsStyle = {
 			"weight": 8.5,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"minorroad": {
@@ -231,7 +231,7 @@ var streetsStyle = {
 			"weight": 6,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"service": {
@@ -239,7 +239,7 @@ var streetsStyle = {
 			"weight": 3.3,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"noauto": {
@@ -247,7 +247,7 @@ var streetsStyle = {
 			"weight": 3,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		}
 	},
@@ -257,7 +257,7 @@ var streetsStyle = {
 			"weight": 17,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"mainroad": {
@@ -265,7 +265,7 @@ var streetsStyle = {
 			"weight": 14.5,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"minorroad": {
@@ -273,7 +273,7 @@ var streetsStyle = {
 			"weight": 12,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"service": {
@@ -281,7 +281,7 @@ var streetsStyle = {
 			"weight": 5.3,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"noauto": {
@@ -289,7 +289,7 @@ var streetsStyle = {
 			"weight": 8.5,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		}
 	},
@@ -299,7 +299,7 @@ var streetsStyle = {
 			"weight": 24,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"mainroad": {
@@ -307,7 +307,7 @@ var streetsStyle = {
 			"weight": 21,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"minorroad": {
@@ -315,7 +315,7 @@ var streetsStyle = {
 			"weight": 17.5,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"service": {
@@ -323,7 +323,7 @@ var streetsStyle = {
 			"weight": 8.1,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		},
 		"noauto": {
@@ -331,7 +331,7 @@ var streetsStyle = {
 			"weight": 9.5,
 			"opacity": 0.3,
 			"fill": false,
-			"lineCap": "butt",
+			"lineCap": "round",
 			"lineJoin": "round"
 		}
 	}
