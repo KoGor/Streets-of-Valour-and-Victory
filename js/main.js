@@ -1,6 +1,6 @@
 var map = L.map('map').setView([55.743, 37.62], 11);
-var tileLayer = L.tileLayer.grayscale('http://tiles.maps.sputnik.ru/{z}/{x}/{y}.png', {
-            attribution: ' © <a href="http://sputnik.ru">Спутник</a> | © <a href="http://www.openstreetmap.org/copyright">Openstreetmap</a>',
+var tileLayer = L.tileLayer.grayscale('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: 'Map data © <a href="http://www.openstreetmap.org/copyright">Openstreetmap</a> contributors',
             maxZoom: 18,
             minZoom: 11,
             maxBounds: [[55.123, 36.800], [56.200, 38.430]]
